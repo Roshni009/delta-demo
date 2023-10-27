@@ -2,7 +2,7 @@
 My first practice to learn git &amp; github.
 
 # Teacher
-Shardha Kaphra
+Shardha Khapra
 
 # Student
 Roshni kushwaha
